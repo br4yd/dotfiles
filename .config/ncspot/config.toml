@@ -1,0 +1,28 @@
+initial_screen = "library"
+use_nerdfont = true
+flip_status_indicators = false
+audio_cache = true
+notfiy = true
+bitrate = 320
+gapless = true
+shuffle = false
+repeat = "off"
+
+[theme]
+background = "#181818"
+primary = "#F1F1F1"
+secondary = "#DCDCDC"
+title = "#F79370"
+playing = "#F79370"
+playing_selected = "#F79370"
+playing_bg = "#181818"
+highlight = "#F79370"
+highlight_bg = "#4F4E4E"
+error = "#FFE4E4"
+error_bg = "#A50000"
+statusbar = "#000000"
+statusbar_progress = "#7FEB3B"
+statusbar_bg = "#FFFFFF"
+cmdline = "#CBFFDE"
+cmdline_bg = "#444444"
+
